@@ -1,0 +1,101 @@
+id,text_snippet,labels
+1,CompetitorZ's analytics tool lacks advanced capabilities.,"Positive, Pricing Discussion, Objection"
+2,CompetitorZ's analytics tool lacks advanced capabilities.,"Features, Pricing Discussion, Objection"
+3,CompetitorX's customer service is much better.,"Positive, Features"
+4,We would like to understand your renewal cost structure.,Security
+5,"We love the analytics, but CompetitorX has a cheaper subscription.",Security
+6,Is your platform compliant with industry standards like HIPAA?,Security
+7,Can you offer any pricing discounts for long-term contracts?,Security
+8,Can you offer any pricing discounts for long-term contracts?,"Features, Pricing Discussion, Objection"
+9,Can you offer any pricing discounts for long-term contracts?,"Positive, Features"
+10,CompetitorX's customer service is much better.,Features
+11,Do you offer any discounts for early renewals?,"Competition, Objection"
+12,We are concerned about compliance with GDPR regulations.,Features
+13,We are happy with the data pipeline performance.,"Competition, Features"
+14,CompetitorY's analytics has better integration with third-party tools.,Pricing Discussion
+15,CompetitorY offers better features at a lower price.,Security
+16,Can you provide a demo of the AI engine?,Features
+17,CompetitorY's analytics has better integration with third-party tools.,"Positive, Features"
+18,CompetitorY offers better features at a lower price.,Security
+19,CompetitorZ's analytics tool lacks advanced capabilities.,Pricing Discussion
+20,CompetitorY offers better features at a lower price.,"Pricing Discussion, Objection"
+21,We are concerned about compliance with GDPR regulations.,Security
+22,Is your platform compliant with industry standards like HIPAA?,"Competition, Objection"
+23,The pricing model is not flexible for startups.,Security
+24,We would like to understand your renewal cost structure.,"Positive, Pricing Discussion"
+25,Is your platform compliant with industry standards like HIPAA?,"Pricing Discussion, Objection"
+26,"We love the analytics, but CompetitorX has a cheaper subscription.",Pricing Discussion
+27,Our data pipeline needs better performance metrics.,Pricing Discussion
+28,Is your platform compliant with industry standards like HIPAA?,Security
+29,CompetitorZ's analytics tool lacks advanced capabilities.,Pricing Discussion
+30,CompetitorX's customer service is much better.,Pricing Discussion
+31,CompetitorY's analytics has better integration with third-party tools.,"Positive, Features"
+32,Our budget constraints limit us from upgrading.,Pricing Discussion
+33,We are happy with the data pipeline performance.,Pricing Discussion
+34,We are concerned about compliance with GDPR regulations.,Security
+35,How secure is your platform for sensitive data?,Pricing Discussion
+36,The pricing model is not flexible for startups.,Pricing Discussion
+37,We are concerned about compliance with GDPR regulations.,"Features, Pricing Discussion, Objection"
+38,Can you offer any pricing discounts for long-term contracts?,"Competition, Objection"
+39,CompetitorY's analytics has better integration with third-party tools.,Security
+40,Our data pipeline needs better performance metrics.,"Positive, Pricing Discussion, Objection"
+41,Our budget constraints limit us from upgrading.,Pricing Discussion
+42,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Features"
+43,Do you offer any discounts for early renewals?,"Positive, Features"
+44,We need detailed documentation for compliance purposes.,"Positive, Features"
+45,The pricing model is not flexible for startups.,Features
+46,We are happy with the data pipeline performance.,"Pricing Discussion, Objection"
+47,"The AI engine is excellent, but the renewal cost is high.","Positive, Features"
+48,How secure is your platform for sensitive data?,Security
+49,We would like to understand your renewal cost structure.,"Positive, Pricing Discussion, Objection"
+50,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Objection"
+51,CompetitorX's customer service is much better.,"Competition, Objection"
+52,Our budget constraints limit us from upgrading.,"Features, Pricing Discussion, Objection"
+53,Can you offer any pricing discounts for long-term contracts?,"Positive, Features"
+54,We need detailed documentation for compliance purposes.,"Features, Pricing Discussion, Objection"
+55,Our data pipeline needs better performance metrics.,"Competition, Pricing Discussion"
+56,We need detailed documentation for compliance purposes.,Pricing Discussion
+57,CompetitorY's analytics has better integration with third-party tools.,"Competition, Objection"
+58,"Our team loves the feature updates, but the budget is tight.","Positive, Pricing Discussion, Objection"
+59,Can you offer any pricing discounts for long-term contracts?,"Pricing Discussion, Objection"
+60,CompetitorY offers better features at a lower price.,"Competition, Objection"
+61,CompetitorX's customer service is much better.,Security
+62,How secure is your platform for sensitive data?,Pricing Discussion
+63,Our data pipeline needs better performance metrics.,Pricing Discussion
+64,We would like to understand your renewal cost structure.,"Security, Objection"
+65,We are concerned about compliance with GDPR regulations.,"Competition, Objection"
+66,"We love the analytics, but CompetitorX has a cheaper subscription.",Pricing Discussion
+67,CompetitorZ's analytics tool lacks advanced capabilities.,"Competition, Features"
+68,Can you offer any pricing discounts for long-term contracts?,"Competition, Objection"
+69,"We love the analytics, but CompetitorX has a cheaper subscription.",Pricing Discussion
+70,Do you offer any discounts for early renewals?,Security
+71,The pricing model is not flexible for startups.,Security
+72,Can you offer any pricing discounts for long-term contracts?,Security
+73,"The AI engine is excellent, but the renewal cost is high.",Security
+74,"Our team loves the feature updates, but the budget is tight.","Competition, Pricing Discussion"
+75,"We love the analytics, but CompetitorX has a cheaper subscription.","Positive, Pricing Discussion, Objection"
+76,CompetitorY offers better features at a lower price.,Security
+77,Do you offer any discounts for early renewals?,Security
+78,We need detailed documentation for compliance purposes.,Pricing Discussion
+79,Our compliance team is worried about data handling. Are you SOC2 certified?,Security
+80,Our budget constraints limit us from upgrading.,Security
+81,We are concerned about compliance with GDPR regulations.,"Competition, Features"
+82,We need detailed documentation for compliance purposes.,Pricing Discussion
+83,Is your platform compliant with industry standards like HIPAA?,"Competition, Objection"
+84,CompetitorY's analytics has better integration with third-party tools.,"Competition, Objection"
+85,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+86,CompetitorY's analytics has better integration with third-party tools.,"Competition, Features"
+87,The pricing model is not flexible for startups.,Security
+88,CompetitorX's customer service is much better.,"Competition, Objection"
+89,Do you offer any discounts for early renewals?,Pricing Discussion
+90,CompetitorY offers better features at a lower price.,"Pricing Discussion, Objection"
+91,Do you offer any discounts for early renewals?,"Pricing Discussion, Objection"
+92,We are happy with the data pipeline performance.,Security
+93,The pricing model is not flexible for startups.,Security
+94,Our data pipeline needs better performance metrics.,"Competition, Features"
+95,CompetitorY's analytics has better integration with third-party tools.,"Features, Pricing Discussion, Objection"
+96,We need detailed documentation for compliance purposes.,"Positive, Pricing Discussion"
+97,How secure is your platform for sensitive data?,Pricing Discussion
+98,Is your platform compliant with industry standards like HIPAA?,"Positive, Features"
+99,Do you offer any discounts for early renewals?,Pricing Discussion
+100,Can you provide a demo of the AI engine?,Security
